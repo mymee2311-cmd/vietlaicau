@@ -12,7 +12,13 @@
       "Because Tim felt tired, he stayed up to finish his homework."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-002",
@@ -27,7 +33,13 @@
       "Elena speaks Polish well because she's never been to Poland."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-003",
@@ -41,8 +53,14 @@
       "Jane kept running because she knew she couldn't win.",
       "Although Jane kept running but she knew she couldn't win."
     ],
-    "correct": 1,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "correct": 0,
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 1,
+    "auditStatus": "Đã sửa đáp án sai",
+    "explain": "“In spite of + V-ing” đúng; “despite of” là cấu trúc sai.",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-004",
@@ -57,7 +75,13 @@
       "Diana wore her winter clothes due to the heat."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-005",
@@ -72,7 +96,13 @@
       "Does your father go to work by motorbike?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-006",
@@ -87,7 +117,13 @@
       "As my father was ill, so he stayed at home yesterday."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-007",
@@ -102,7 +138,13 @@
       "I visited Spain once."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-008",
@@ -117,7 +159,13 @@
       "Why don't we play volleyball this weekend?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-009",
@@ -132,7 +180,13 @@
       "How much is an ice-cream cost?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-010",
@@ -147,7 +201,13 @@
       "Do you want to play volleyball this afternoon?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-011",
@@ -162,7 +222,13 @@
       "We ought to come to my house after school."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-012",
@@ -177,7 +243,13 @@
       "Don't you like going camping this weekend?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-013",
@@ -192,7 +264,13 @@
       "When should we have a picnic in the park on the weekend?"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-014",
@@ -207,7 +285,13 @@
       "Sally had no chance to get the job."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-015",
@@ -222,7 +306,13 @@
       "Mr. Jones told the secretary to come late."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-016",
@@ -237,7 +327,13 @@
       "You can't drive here."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-017",
@@ -252,7 +348,13 @@
       "It takes her a few seconds to prepare food."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-018",
@@ -267,7 +369,13 @@
       "You don't need to save money."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-019",
@@ -282,7 +390,13 @@
       "It took me a week to read the book."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-020",
@@ -297,7 +411,13 @@
       "I have been abroad recently."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-021",
@@ -312,7 +432,13 @@
       "The lecturer of psychology said that to socialize well, people should attend parties."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-022",
@@ -327,7 +453,13 @@
       "Jean's friend asked Jean how to often go to the cinema."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-023",
@@ -342,7 +474,13 @@
       "My brother said that he hasn't known what Alexander was doing."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-024",
@@ -357,7 +495,13 @@
       "The teacher asked me how many students there are in my class."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-025",
@@ -372,7 +516,13 @@
       "Carol wondered what Ann had done yesterday."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-026",
@@ -387,7 +537,13 @@
       "The little boy asked his mom whether he could continue what he's doing."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-027",
@@ -402,7 +558,13 @@
       "He advised me to bring my swimming things with me because it's sunny."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-028",
@@ -417,7 +579,13 @@
       "My brother wanted to know how old the earth was."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-029",
@@ -432,7 +600,13 @@
       "The little girl asked me if I wanted to stay here all summer."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-030",
@@ -447,7 +621,13 @@
       "She told me not to interrupt her while she is speaking."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-031",
@@ -462,7 +642,13 @@
       "My parents asked me what time I had got home last night."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-032",
@@ -477,7 +663,13 @@
       "Janet said she was catching the 5.30 plane the following day."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-033",
@@ -492,7 +684,13 @@
       "Maria asked the examiner when she is going to know the result of the examination."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-034",
@@ -507,7 +705,13 @@
       "The interviewer asked me when I left school."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-035",
@@ -522,7 +726,13 @@
       "Lan asked how many teachers were there in my school."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-036",
@@ -537,7 +747,13 @@
       "Arthur said they will fly home the following week."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-037",
@@ -552,7 +768,13 @@
       "The teacher told them stop make noise in class."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-038",
@@ -567,7 +789,13 @@
       "Frederic reminded Sarah of his coming birthday party."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-039",
@@ -582,7 +810,13 @@
       "The girl promised to make a coffee for the lady."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-040",
@@ -597,7 +831,13 @@
       "Mary requested a dinner out"
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-041",
@@ -612,7 +852,13 @@
       "His new painting has been finished at the weekend."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-042",
@@ -627,7 +873,13 @@
       "I asked them some difficult questions at the interview."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-043",
@@ -642,7 +894,13 @@
       "The traffic has be banned from the city centre."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-044",
@@ -657,7 +915,13 @@
       "The results of the test are told to us by our teacher."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-045",
@@ -672,7 +936,13 @@
       "The blender will be thoroughly washed for use."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-046",
@@ -687,7 +957,13 @@
       "The garage has been built at the end of last year."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-047",
@@ -702,7 +978,13 @@
       "The car is going to repaired next week."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-048",
@@ -717,7 +999,13 @@
       "The children is permitted to watch violent programs on TV."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-049",
@@ -732,7 +1020,13 @@
       "Their staff should to be taught useful work skills."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-050",
@@ -747,7 +1041,13 @@
       "Something must be done to save the situation before it was too late."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-051",
@@ -762,7 +1062,13 @@
       "We have to be paid the bills before the tenth of the month."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-052",
@@ -777,7 +1083,13 @@
       "You are sending a bill at the end of the month."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-053",
@@ -792,7 +1104,13 @@
       "The earthquake victims are helped by a lot of money."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-054",
@@ -807,7 +1125,13 @@
       "More than 1,000 cars are selling by our company every week."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-055",
@@ -822,7 +1146,13 @@
       "An opportunity to study abroad might be given to them."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-056",
@@ -837,7 +1167,13 @@
       "Poor women have been offered more help by government."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-057",
@@ -852,7 +1188,13 @@
       "A career of their preference is going to be encouraged to pursue by married women."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-058",
@@ -867,7 +1209,13 @@
       "Any kind of violence hasn't allowed at school."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-059",
@@ -882,7 +1230,13 @@
       "His excellent teaching has admired by all of the students."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-060",
@@ -897,7 +1251,13 @@
       "Hot soapy water were being washed all the cars."
     ],
     "correct": 0,
-    "keySource": "Dấu ✅ trong tài liệu"
+    "keySource": "✅ được đánh dấu trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-061",
@@ -912,7 +1272,13 @@
       "The expensive car couldn’t prevent us from buying it"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-062",
@@ -927,7 +1293,13 @@
       "The woman, though weak, could lift the suitcase"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-063",
@@ -942,7 +1314,13 @@
       "His wife needed too much strength to do the planting"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-064",
@@ -957,7 +1335,13 @@
       "The exercises are not easy enough for the children to do."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-065",
@@ -972,7 +1356,13 @@
       "I don't want to drink the coffee because it was not strong enough"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-066",
@@ -987,7 +1377,13 @@
       "He wasn’t so tall that he can reach the switch"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-067",
@@ -1002,7 +1398,13 @@
       "Sue is such slow girl that she can't understand what you might say."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-068",
@@ -1017,7 +1419,13 @@
       "This poem is not too short enough for me to memorize."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-069",
@@ -1032,7 +1440,13 @@
       "The TV programme was too complicated that none of the children could understand"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-070",
@@ -1047,7 +1461,13 @@
       "The film was too long that we missed our last bus."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-071",
@@ -1062,7 +1482,13 @@
       "Her accent is too strong that some people can’t understand"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-072",
@@ -1077,7 +1503,13 @@
       "The coffee was too strong for me to drink"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-073",
@@ -1092,7 +1524,13 @@
       "The bridge is not enough strong for lorries to go across."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-074",
@@ -1107,7 +1545,13 @@
       "It's too cold that we couldn't go for a picnic."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-075",
@@ -1122,7 +1566,13 @@
       "I was too surprising that I didn't know what to say"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-076",
@@ -1137,7 +1587,13 @@
       "It was such a small that we couldn't live in comfortably"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-077",
@@ -1152,7 +1608,13 @@
       "There may be not enough time to hold the meeting."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-078",
@@ -1167,7 +1629,13 @@
       "Today was a hot day that I didn’t want to do anything."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-079",
@@ -1182,7 +1650,13 @@
       "Bill and Peter are old enough to ride motor-cycles."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-080",
@@ -1197,7 +1671,13 @@
       "I have too a lot of money so I don’t know what to do with it."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-081",
@@ -1212,7 +1692,13 @@
       "Today was a hot day that I didn’t want to do anything."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-082",
@@ -1227,7 +1713,13 @@
       "Adrian was so tired and so he fell asleep during the film."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-083",
@@ -1242,7 +1734,13 @@
       "The music is not enough loud for me to hear properly."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-084",
@@ -1256,8 +1754,12 @@
       "I'm not enough tall to reach the top shelf of the cupboard.",
       "I'm too tall to reach the top shelf in the cupboard"
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "A đảo ngược ý (“not too short” hàm ý có thể với tới). B/C sai cấu trúc, D sai chủ thể và ý nghĩa; không có phương án đúng.",
+    "accepted": []
   },
   {
     "id": "tnkq-085",
@@ -1272,7 +1774,13 @@
       "He is very intelligent that he always understands what the teacher says."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-086",
@@ -1287,7 +1795,13 @@
       "Without following your heart, you would spend the rest of your life wishing you had."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-087",
@@ -1302,7 +1816,13 @@
       "We were on the beach now we don’t miss the flight."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-088",
@@ -1317,7 +1837,13 @@
       "Because he wasn’t careless, we didn’t finish the work."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-089",
@@ -1332,7 +1858,13 @@
       "If you did not help us, we could not handle the situation."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-090",
@@ -1347,7 +1879,13 @@
       "They wouldn’t have missed the start of the film if they had arrived earlier."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-091",
@@ -1362,7 +1900,13 @@
       "I get paid at a higher rate because I will work extra hours."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-092",
@@ -1377,7 +1921,13 @@
       "I could have picked my son up at the station if he had left me the car key."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-093",
@@ -1392,7 +1942,13 @@
       "I could come early if the flight wasn't delayed for 2 hours."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-094",
@@ -1407,7 +1963,13 @@
       "If their car hadn't broken down, these people wouldn't have come to the meeting late."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-095",
@@ -1422,7 +1984,13 @@
       "If Charlotte had left early, she wouldn't have missed the bus."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-096",
@@ -1437,7 +2005,13 @@
       "If you don't remember to do your homework, the teacher will get angry."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-097",
@@ -1451,8 +2025,12 @@
       "If I don’t stay up late last night, I won’t have had a terrible headache.",
       "If I had a terrible headache, I wouldn’t stay up late last night."
     ],
-    "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "Câu gốc nói đau đầu ở hiện tại do thức khuya đêm qua (điều kiện hỗn hợp). B dùng “wouldn’t have had”, chỉ hệ quả quá khứ; A sai cấu trúc thời gian.",
+    "accepted": []
   },
   {
     "id": "tnkq-098",
@@ -1467,7 +2045,13 @@
       "If he hadn’t driven too fast, he wouldn’t have got a ticket."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-099",
@@ -1482,7 +2066,13 @@
       "Because of I don’t get my work finished, I can’t go."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-100",
@@ -1497,7 +2087,13 @@
       "The class wouldn’t have been cancelled if the teacher was absent today"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-101",
@@ -1512,7 +2108,13 @@
       "It’s possible for me to get to work if the buses are on strike."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-102",
@@ -1527,7 +2129,13 @@
       "Although I don’t have a satellite TV, I can’t watch the football match live."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-103",
@@ -1542,7 +2150,13 @@
       "If the woman hadn’t received immediate medical attention, she would have been died"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-104",
@@ -1557,7 +2171,13 @@
       "I won’t buy a bicycle in spite of having enough money."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-105",
@@ -1572,7 +2192,13 @@
       "If I had known you were coming I would waited for you"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-106",
@@ -1587,7 +2213,13 @@
       "I speaks English so bad that I can’t work in that foreign-invested company."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-107",
@@ -1602,7 +2234,13 @@
       "We will find out the solutions, otherwise, we cannot change the approach"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-108",
@@ -1617,7 +2255,13 @@
       "Would we not be using an out-of-date timetable; we wouldn’t have missed the train."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-109",
@@ -1632,7 +2276,13 @@
       "If we leave now, we'll miss the start of the film now."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "tnkq-110",
@@ -1647,7 +2297,13 @@
       "If I had bought more milk, I'd have enough for breakfast."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-111",
@@ -1662,7 +2318,13 @@
       "If the Romans had sailed across the Atlantic, they would have reach America."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-112",
@@ -1677,7 +2339,13 @@
       "If I had turned left at the station, I wouldn't have lost my way."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-113",
@@ -1692,7 +2360,13 @@
       "If you won't get up now, you will be late for school."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-114",
@@ -1707,7 +2381,13 @@
       "I wouldn't buy that watch if I were you."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-115",
@@ -1722,7 +2402,13 @@
       "If Mike had make a shopping list, he wouldn't have forgotten to buy some coffee."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "tnkq-116",
@@ -1737,7 +2423,13 @@
       "I wouldn’t have been in a lot of trouble now unless I had listened to my parents."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-117",
@@ -1752,7 +2444,13 @@
       "Kate wouldn’t have been sick if she hadn’t eaten a giant pizza."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-118",
@@ -1766,8 +2464,14 @@
       "We would pay them on time if they didn’t make a mistake with our order.",
       "We would pay them on time unless they hadn’t made a mistake with our order."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-119",
@@ -1781,8 +2485,14 @@
       "The accident won’t happen if the driver pays attention to the road.",
       "The accident wouldn’t happen if the driver had paid attention to the road"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-120",
@@ -1797,7 +2507,13 @@
       "If the joke hadn’t been very funny, the audience wouldn’t laugh."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "tnkq-121",
@@ -1812,7 +2528,13 @@
       "If we had enough money, we would order a salmon pizza."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "tnkq-122",
@@ -1826,8 +2548,12 @@
       "If you had your air conditioner seviced, you would waste a lot of energy.",
       "If you hadn’t had your air conditioner seviced, you would have wasted a lot of energy."
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "Câu gốc là lời khuyên với hệ quả tương lai; A chuyển sang tình huống giả định loại 2, B/C đảo ngược điều kiện, D chuyển sang quá khứ.",
+    "accepted": []
   },
   {
     "id": "tnkq-123",
@@ -1842,7 +2568,13 @@
       "The United Nations wouldn’t send in a peacekeeping force if the situation didn’t worsen."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-001",
@@ -1857,7 +2589,13 @@
       "She was always considered to be my second mother."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-002",
@@ -1872,7 +2610,13 @@
       "No one can compare with Mrs. Jones in terms of attitude."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-003",
@@ -1887,7 +2631,13 @@
       "Barbara plays tennis the better in the club"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-004",
@@ -1902,7 +2652,13 @@
       "The expensive car couldn’t prevent us from buying it"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-005",
@@ -1917,7 +2673,13 @@
       "The woman, though weak, could lift the suitcase."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-006",
@@ -1932,7 +2694,13 @@
       "His wife needed too much strength to do the planting"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-007",
@@ -1947,7 +2715,13 @@
       "The exercises are not easy enough for the children to do."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-008",
@@ -1962,7 +2736,13 @@
       "I could have picked my son up at the station if he had left me the car key."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-009",
@@ -1977,7 +2757,13 @@
       "Without following your heart, you would spend the rest of your life wishing you had."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-010",
@@ -1992,7 +2778,13 @@
       "Peter apologized for not finishing his assignment"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-011",
@@ -2007,7 +2799,13 @@
       "The exercises are not easy enough for the children to do."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-012",
@@ -2022,7 +2820,13 @@
       "Robert asked Henry to help him with that work"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-013",
@@ -2037,7 +2841,13 @@
       "The task wasn’t easy enough for him to finish in time"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-014",
@@ -2052,7 +2862,13 @@
       "The woman, though weak, could lift the suitcase."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-015",
@@ -2067,7 +2883,13 @@
       "The blender will be thoroughly washed for use."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-016",
@@ -2082,7 +2904,13 @@
       "She was always considered to be my second mother. )Cau bi dong her chuyển thành She)"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-017",
@@ -2097,7 +2925,13 @@
       "No one can compare with Mrs. Jones in terms of attitude."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-018",
@@ -2112,7 +2946,13 @@
       "Barbara plays tennis the better in the club"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-019",
@@ -2127,7 +2967,13 @@
       "The expensive car couldn’t prevent us from buying it"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-020",
@@ -2142,7 +2988,13 @@
       "She might regret taking more care of her health, which was the doctor’s advice to her."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-021",
@@ -2157,7 +3009,13 @@
       "Peter apologized for not finishing his assignment."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-022",
@@ -2172,7 +3030,13 @@
       "Sam’s mother called last night but did not know what he was doing at that time."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-023",
@@ -2187,7 +3051,13 @@
       "Without following your heart, you would spend the rest of your life wishing you had."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-024",
@@ -2202,7 +3072,13 @@
       "We were on the beach now we don’t miss the flight."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-025",
@@ -2216,8 +3092,12 @@
       "Country life is more exciting than city life.",
       "People prefer living in city to living in the country because country life is more peaceful."
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "Không phương án nào diễn đạt đúng duy nhất “cuộc sống thành thị kém yên bình hơn nông thôn”; A thêm suy luận về tiếng ồn, D thêm nhận định sở thích của người dân.",
+    "accepted": []
   },
   {
     "id": "ontap-026",
@@ -2232,7 +3112,13 @@
       "She is more intelligent than I."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-027",
@@ -2247,7 +3133,13 @@
       "Our hotel booking needs no confirmation."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-028",
@@ -2262,7 +3154,13 @@
       "The garage was built at the end of last year."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-029",
@@ -2277,7 +3175,13 @@
       "The woman, though weak, could lift the suitcase."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-030",
@@ -2292,7 +3196,13 @@
       "Mary said that she didn't want to tell John her new address."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-031",
@@ -2307,7 +3217,13 @@
       "The mother asked the little girl if she was sorry for what she had done."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-032",
@@ -2322,7 +3238,13 @@
       "His boss wanted to know why he hasn't sent the report."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-033",
@@ -2336,8 +3258,14 @@
       "If he weren’t careful, we would finish the work.",
       "Because he wasn’t careless, we didn’t finish the work."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-034",
@@ -2352,7 +3280,13 @@
       "If you did not help us, we could not handle the situation."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-035",
@@ -2367,7 +3301,13 @@
       "The car is going to repaired next week."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-036",
@@ -2382,7 +3322,13 @@
       "The date of the meeting will have to be changed again."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-037",
@@ -2397,7 +3343,13 @@
       "His wife needed too much strength to do the planting"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-038",
@@ -2411,8 +3363,14 @@
       "What was Sam doing at the time when his mother called last night?",
       "Sam’s mother asked him what he had been doing when she had called the night before."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-039",
@@ -2427,7 +3385,13 @@
       "The lecturer of psychology said that to socialize well, people should attend parties."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-040",
@@ -2442,7 +3406,13 @@
       "Jean’s friend asked Jean how to often go to the cinema."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-041",
@@ -2457,7 +3427,13 @@
       "They wouldn’t have missed the start of the film if they had arrived earlier."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-042",
@@ -2472,7 +3448,13 @@
       "I get paid at a higher rate because I will work extra hours."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-043",
@@ -2487,7 +3469,13 @@
       "I got one of my teeth took out by the dentist yesterday."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-044",
@@ -2502,7 +3490,13 @@
       "This song to be written by him since he was young."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-045",
@@ -2517,7 +3511,13 @@
       "She didn’t like Paris as much as Rome."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-046",
@@ -2532,7 +3532,11 @@
       "I want to buy a more expensive carpet than this one."
     ],
     "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "“Have you got a cheaper carpet?” hỏi có thảm rẻ hơn không; C “Is this the cheapest?” đặt câu hỏi theo chiều ngược lại, không tương đương.",
+    "accepted": []
   },
   {
     "id": "ontap-047",
@@ -2546,8 +3550,14 @@
       "The exercises are not difficult enough for the children to do.",
       "The exercises are not easy enough for the children to do."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-048",
@@ -2562,7 +3572,13 @@
       "Robin ordered that picture to give Sarah as a wedding present."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-049",
@@ -2577,7 +3593,13 @@
       "My brother said that he hasn’t known what Alexander was doing."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-050",
@@ -2592,7 +3614,13 @@
       "The driver wanted the passengers not to get off the bus while it's moving."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-051",
@@ -2607,7 +3635,13 @@
       "I could have picked my son up at the station if he had left me the car key."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-052",
@@ -2622,7 +3656,13 @@
       "I could come early if the flight wasn't delayed for 2 hours."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-053",
@@ -2637,7 +3677,13 @@
       "The children is permitted to watch violent programs on TV."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-054",
@@ -2652,7 +3698,13 @@
       "Their staff should to be taught useful work skills."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-055",
@@ -2666,8 +3718,14 @@
       "A person can work less faster than a computer.",
       "A person cannot work faster than a computer."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-056",
@@ -2681,8 +3739,14 @@
       "I thought the meal was cheaper.",
       "The meal didn't cost as much as I thought."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đã sửa đáp án sai",
+    "explain": "“I thought this meal would cost more” nghĩa là bữa ăn thực tế rẻ hơn dự kiến; phương án D diễn đạt chính xác.",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-057",
@@ -2697,7 +3761,13 @@
       "I don't want to drink the coffee because it was not strong enough."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-058",
@@ -2712,7 +3782,13 @@
       "The teacher asked me how many students there are in my class."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-059",
@@ -2727,7 +3803,13 @@
       "She told her children not to watch that film because it was so violent."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-060",
@@ -2742,7 +3824,13 @@
       "If their car hadn't broken down, these people wouldn't have come to the meeting late."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-061",
@@ -2756,8 +3844,14 @@
       "Charlotte didn't miss the bus unless she left early.",
       "If Charlotte had left early, she wouldn't have missed the bus."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-062",
@@ -2771,8 +3865,14 @@
       "My mistake was to lose the game.",
       "If I didn't make a mistake, the game wouldn't be lost."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-063",
@@ -2787,7 +3887,13 @@
       "The film I had expected was interesting."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-064",
@@ -2802,7 +3908,13 @@
       "Mobile phones aren't as expensive as they used to be."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-065",
@@ -2817,7 +3929,13 @@
       "He wasn’t so tall that he can reach the switch."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-066",
@@ -2831,8 +3949,14 @@
       "Carol asked Ann what she did the day before.",
       "Carol wondered what Ann had done yesterday."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-067",
@@ -2847,7 +3971,13 @@
       "The little boy asked his mom whether he could continue what he's doing."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-068",
@@ -2862,7 +3992,13 @@
       "He advised me to bring my swimming things with me because it's sunny."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-069",
@@ -2877,7 +4013,13 @@
       "Something must be done to save the situation before it is too late."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-070",
@@ -2891,8 +4033,14 @@
       "The bills have to be paid before the tenth of the month.",
       "We have to be paid the bills before the tenth of the month."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-071",
@@ -2907,7 +4055,11 @@
       "My parents think jazz is more interesting than classical music."
     ],
     "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "“Prefer jazz” chỉ sở thích; không đủ căn cứ kết luận họ thấy jazz thú vị hơn (D) thay vì các lý do khác.",
+    "accepted": []
   },
   {
     "id": "ontap-072",
@@ -2922,7 +4074,13 @@
       "He is being offered a reward for any information useful to the police."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-073",
@@ -2937,7 +4095,13 @@
       "Other sports are more enjoyable to watch than tennis."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-074",
@@ -2952,7 +4116,13 @@
       "A poem about the waterfall is being written."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-075",
@@ -2967,7 +4137,13 @@
       "By telling Paula what you use the car, Paula will lend it to you."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-076",
@@ -2981,8 +4157,14 @@
       "Mrs. Roger wanted her nephew not to bite her nails because they were dirty.",
       "Mrs. Roger ordered her nephew do not bite his nails because they were dirty."
     ],
-    "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đã sửa đáp án sai",
+    "explain": "C sai đại từ “her nails” (phải là “his nails”). B diễn đạt đúng lời nhắc không cắn móng tay; việc giữ hiện tại trong lời giải thích vẫn được chấp nhận.",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-077",
@@ -2997,7 +4179,13 @@
       "My brother wanted to know how old the earth was."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-078",
@@ -3012,7 +4200,13 @@
       "She made a trip around her city with John."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-079",
@@ -3027,7 +4221,13 @@
       "If you don't remember to do your homework, the teacher will get angry."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-080",
@@ -3042,7 +4242,13 @@
       "Sue is such slow girl that she can't understand what you might say."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-081",
@@ -3056,8 +4262,14 @@
       "Helen can play the piano as well as Liz.",
       "Helen can't play the piano as well as Liz."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-082",
@@ -3071,8 +4283,14 @@
       "A computer is not more complex than a human brain.",
       "Compared to a human brain, a computer is complex."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-083",
@@ -3087,7 +4305,13 @@
       "The house can't be seen from the street."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-084",
@@ -3102,7 +4326,13 @@
       "You are sending a bill at the end of the month."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-085",
@@ -3117,7 +4347,13 @@
       "“You must leave the room,” the teacher told us."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-086",
@@ -3132,7 +4368,13 @@
       "Sarah said she would return it tomorrow."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-087",
@@ -3147,7 +4389,13 @@
       "Robert asked Henry to help him with that work."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-088",
@@ -3162,7 +4410,13 @@
       "Alice won the first prize once."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-089",
@@ -3176,8 +4430,12 @@
       "If I don’t stay up late last night, I won’t have had a terrible headache.",
       "If I had a terrible headache, I wouldn’t stay up late last night."
     ],
-    "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "Nguyên nhân thức khuya tối qua gây đau đầu hiện tại cần câu điều kiện hỗn hợp. B nói hệ quả đau đầu trong quá khứ, không khớp với câu gốc.",
+    "accepted": []
   },
   {
     "id": "ontap-090",
@@ -3191,8 +4449,14 @@
       "The task was difficult enough for him to finish in time.",
       "The task wasn’t easy enough for him to finish in time"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-091",
@@ -3207,7 +4471,13 @@
       "My proposal has been accepted by partners after they had considered it carefully."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-092",
@@ -3222,7 +4492,13 @@
       "The work on the building to be discontinued because of a strike."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-093",
@@ -3237,7 +4513,13 @@
       "If he hadn’t driven too fast, he wouldn’t have got a ticket."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-094",
@@ -3252,7 +4534,13 @@
       "Alan asked me to tell him where the post office was."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-095",
@@ -3267,7 +4555,13 @@
       "This poem is not too short enough for me to memorize."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-096",
@@ -3282,7 +4576,13 @@
       "This book is not so interesting as the other books."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-097",
@@ -3297,7 +4597,13 @@
       "Traveling by train is not so cheap as traveling by plane"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-098",
@@ -3311,8 +4617,14 @@
       "If a detective hadn’t recognized him, Dick wouldn’t have been arrested.",
       "Although a detective recognized him, Dick was arrested."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-099",
@@ -3327,7 +4639,13 @@
       "The customer decided to leave because he didn't see the manager"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-100",
@@ -3342,7 +4660,13 @@
       "It’s nine months since I last seen him."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-101",
@@ -3356,8 +4680,12 @@
       "The accident should reported to the police.",
       "The police should report about the accident."
     ],
-    "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "B chuyển “the accident” (số ít) thành “the accidents” (số nhiều), các phương án khác sai cấu trúc bị động; không có câu đúng hoàn toàn.",
+    "accepted": []
   },
   {
     "id": "ontap-102",
@@ -3371,8 +4699,14 @@
       "At first her illness was more serious than we thought.",
       "At first we thought her illness wasn’t serious."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-103",
@@ -3386,8 +4720,14 @@
       "Peggy has been awarded a scholarship by Indiana University.",
       "Peggy has awarded a scholarship by Indiana University."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-104",
@@ -3402,7 +4742,14 @@
       "My young daughter asked why the sky blue."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Có nhiều đáp án hợp lệ",
+    "explain": "Với sự thật chung “the sky is blue”, có thể giữ thì hiện tại (B) hoặc lùi thì trong câu tường thuật (C).",
+    "accepted": [
+      1,
+      2
+    ]
   },
   {
     "id": "ontap-105",
@@ -3416,8 +4763,12 @@
       "Sarah wondered if what she’s heard true.",
       "Sarah wondered was what she had heard true."
     ],
-    "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "C thiếu động từ “was” trong mệnh đề “if what she’s heard true”; A/B/D sai trật tự câu hỏi gián tiếp hoặc cấu trúc.",
+    "accepted": []
   },
   {
     "id": "ontap-106",
@@ -3431,8 +4782,14 @@
       "Small cars don’t use as much petrol as large cars.",
       "Small cars use fewer petrol than large cars."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-107",
@@ -3447,7 +4804,13 @@
       "Alan never eats breakfast in order to overeat at lunch."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-108",
@@ -3462,7 +4825,13 @@
       "The class wouldn’t have been cancelled if the teacher was absent today."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-109",
@@ -3477,7 +4846,13 @@
       "The task wasn’t easy enough for him to finish in time"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-110",
@@ -3491,8 +4866,14 @@
       "I can’t go unless I don’t get my work finished.",
       "Because of I don’t get my work finished, I can’t go."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-111",
@@ -3507,7 +4888,13 @@
       "All of the girls in our class are as pretty as her."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-112",
@@ -3522,7 +4909,13 @@
       "Education is optional to every citizen in our country."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-113",
@@ -3537,7 +4930,13 @@
       "She was less happier than she has been lately."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-114",
@@ -3552,7 +4951,13 @@
       "I asked him if he knew that the shoes he was wearing weren’t a pair."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-115",
@@ -3567,7 +4972,13 @@
       "It’s possible for me to get to work if the buses are on strike."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-116",
@@ -3582,7 +4993,13 @@
       "She asked the children not swim in the lake without an adult present."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-117",
@@ -3597,7 +5014,13 @@
       "The TV programme was too complicated that none of the children could understand (too ko đi với that"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-118",
@@ -3612,7 +5035,13 @@
       "If I had paid attention in class, I would understand the lesson."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-119",
@@ -3626,8 +5055,14 @@
       "Daniel thinks that writing Italian is more harder than speaking Italian.",
       "Daniel thinks that writing Italian is as easy as speaking Italian."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-120",
@@ -3641,8 +5076,14 @@
       "My sister said she was sorry she told everyone my secret.",
       "My sister apologized for tell everyone my secret."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-121",
@@ -3657,7 +5098,13 @@
       "Yesterday the shop was more busy than today."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-122",
@@ -3671,8 +5118,14 @@
       "My family has been moving to this house for 60 years.",
       "My family has been living in this house for 60 years."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-123",
@@ -3687,7 +5140,13 @@
       "Although I don’t have a satellite TV, I can’t watch the football match live."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-124",
@@ -3702,7 +5161,14 @@
       "Mum told me not taking the radio into the bathroom because it was dangerous."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Có nhiều đáp án hợp lệ",
+    "explain": "“It’s dangerous” là thông tin vẫn đúng, nên có thể giữ hiện tại (B) hoặc lùi về quá khứ (C) khi tường thuật.",
+    "accepted": [
+      1,
+      2
+    ]
   },
   {
     "id": "ontap-125",
@@ -3717,7 +5183,13 @@
       "The refugees are being taken to the camp outside the village."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-126",
@@ -3732,7 +5204,13 @@
       "We had 3 hours to find the room for the night."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-127",
@@ -3747,7 +5225,13 @@
       "He will being taken to the airport by all his friends."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-128",
@@ -3762,7 +5246,13 @@
       "My sister wanted to know if there was anything I especially want to watch on TV that night."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-129",
@@ -3777,7 +5267,13 @@
       "I told Alan I was very discouraged. I didn’t think I will speak English well."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-130",
@@ -3792,7 +5288,13 @@
       "These books will have to returned to the library by the following day."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-131",
@@ -3807,7 +5309,13 @@
       "I had been told to here at ten."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-132",
@@ -3822,7 +5330,13 @@
       "Other restaurants in the area are not so comfortable as Bluebell."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-133",
@@ -3836,8 +5350,14 @@
       "If the woman hadn’t received immediate medical attention, she would have died.",
       "If the woman hadn’t received immediate medical attention, she would have been died"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-134",
@@ -3852,7 +5372,13 @@
       "I don’t feel like going to work because such beautiful weather."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-135",
@@ -3867,7 +5393,13 @@
       "I won’t buy a bicycle in spite of having enough money."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-136",
@@ -3882,7 +5414,13 @@
       "All the other schools in town are not as cheaper as the King School."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-137",
@@ -3897,7 +5435,13 @@
       "Ms. Adams just asked Ms. Change if she would be in class the following day."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-138",
@@ -3912,7 +5456,13 @@
       "Fiona will finish typing the report in an hour."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-139",
@@ -3927,7 +5477,13 @@
       "We do not have to walk on the grass in the park."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-140",
@@ -3941,8 +5497,12 @@
       "Maria has been given a promotion at her job as a computer manager at Microsoft.",
       "Maria has promoted at her job as a computer manager at Microsoft."
     ],
-    "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "C đổi nghề “computer programmer” (lập trình viên) thành “computer manager” (quản lý); các lựa chọn còn lại cũng đổi nghề hoặc sai ngữ pháp.",
+    "accepted": []
   },
   {
     "id": "ontap-141",
@@ -3957,7 +5517,13 @@
       "The World Cup soccer games are being televised all over the world."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-142",
@@ -3972,7 +5538,13 @@
       "If you listened to me, you wouldn’t get into so much troubles"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-143",
@@ -3987,7 +5559,13 @@
       "Being stuck in a traffic jam isn’t as bad as other things."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-144",
@@ -4002,7 +5580,13 @@
       "the doctor told Mr Davidson to cancel smoking."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-145",
@@ -4017,7 +5601,13 @@
       "The film was too long that we missed our last bus."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-146",
@@ -4032,7 +5622,13 @@
       "You can’t get a driving license unless you are at least sixteen years old."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-147",
@@ -4047,7 +5643,14 @@
       "A letter with your exam results will be sending to you."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Có nhiều đáp án hợp lệ",
+    "explain": "Cả A và B đều là cách chuyển sang bị động hợp lệ của “We will send you a letter with your exam results”.",
+    "accepted": [
+      0,
+      1
+    ]
   },
   {
     "id": "ontap-148",
@@ -4062,7 +5665,13 @@
       "She’s such old woman that she can’t have more children"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-149",
@@ -4077,7 +5686,13 @@
       "If I had known you were coming I would waited for you"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-150",
@@ -4092,7 +5707,13 @@
       "His mother asked him don’t leave the house until she gets back."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-151",
@@ -4107,7 +5728,13 @@
       "I speaks English so bad that I can’t work in that foreign-invested company. Well thì đúng"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-152",
@@ -4121,8 +5748,14 @@
       "The internet is more convenient than all the other forms of media",
       "The internet is more convenient than newspapers"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-153",
@@ -4137,7 +5770,13 @@
       "Her accent is too strong that some people can’t understand."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-154",
@@ -4151,8 +5790,14 @@
       "Can children learn to count more slowly than learn the alphabet?",
       "is it more difficult for children to learn to count than to learn the alphabet?"
     ],
-    "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đã sửa đáp án sai",
+    "explain": "Gốc hỏi có phải học bảng chữ cái dễ hơn học đếm hay không. D hỏi tương đương: học đếm có khó hơn học bảng chữ cái không. B đảo ngược quan hệ so sánh.",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-155",
@@ -4167,7 +5812,13 @@
       "The issue is decided by the voters"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-156",
@@ -4182,7 +5833,11 @@
       "Sarah said she couldn’t decide what colour she wanted for my bedroom."
     ],
     "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "C thay “can decide” (có thể quyết định) thành “couldn’t decide” (không thể quyết định), trái nghĩa. Không phương án còn lại nào đúng.",
+    "accepted": []
   },
   {
     "id": "ontap-157",
@@ -4197,7 +5852,13 @@
       "No ocean in the world is deep and the Pacific is deeper."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-158",
@@ -4212,7 +5873,13 @@
       "The Nile is longer than any other river in the world."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-159",
@@ -4227,7 +5894,13 @@
       "An opportunity to study abroad might be given to them."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-160",
@@ -4242,7 +5915,13 @@
       "Gender discrimination is said to eliminated."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-161",
@@ -4256,8 +5935,14 @@
       "It was coffee so strong that I couldn't drink it.",
       "The coffee was too strong for me to drink."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-162",
@@ -4272,7 +5957,13 @@
       "Tom asked Mary whether she believes in what the boy says."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-163",
@@ -4287,7 +5978,13 @@
       "Kate reminded Pete of handing in the report."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-164",
@@ -4302,7 +5999,13 @@
       "Both B & C are correct."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-165",
@@ -4317,7 +6020,13 @@
       "We will find out the solutions, otherwise, we cannot change the approach."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-166",
@@ -4332,7 +6041,13 @@
       "If it hadn’t been for your help, I wouldn’t have passed the driving test."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-167",
@@ -4346,8 +6061,14 @@
       "His last film wasn’t so entertaining as his new one.",
       "Of all his films, his new one is the most entertaining."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-168",
@@ -4361,8 +6082,14 @@
       "Kevin collected the least paper.",
       "Flora collected more paper than Kevin."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-169",
@@ -4377,7 +6104,13 @@
       "Poor women have been offered more help by government."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-170",
@@ -4392,7 +6125,13 @@
       "A career of their preference is going to be encouraged to pursue by married women."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-171",
@@ -4406,8 +6145,14 @@
       "Lola apologized to Kate for sending her the wrong information.",
       "Lola was sorry for not sending Kate the wrong information."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-172",
@@ -4422,7 +6167,13 @@
       "The interviewer asked me when I had left school."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-173",
@@ -4437,7 +6188,13 @@
       "The bridge is not enough strong for lorries to go across."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-174",
@@ -4452,7 +6209,13 @@
       "She spoke to him in spite of the fact that she was so shy."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-175",
@@ -4467,7 +6230,13 @@
       "Would we not be using an out-of-date timetable; we wouldn’t have missed the train. Có would have V2 nhưng vế còn lại ko có Had V2"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-176",
@@ -4482,7 +6251,13 @@
       "Jungle Party is too childish that Jack stopped playing it"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-177",
@@ -4497,7 +6272,13 @@
       "Some people are afraid that the world will be took over by robots."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-178",
@@ -4511,8 +6292,14 @@
       "Money is more important than health.",
       "Money isn't as important as health."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-179",
@@ -4527,7 +6314,13 @@
       "Formula 1 is as exciting as motorcycle racing."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-180",
@@ -4542,7 +6335,13 @@
       "Cameron won't be forgive for what he did!"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-181",
@@ -4557,7 +6356,13 @@
       "The little girl asked me whether I was staying there all summer. Here phải đổi thành there"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-182",
@@ -4572,7 +6377,13 @@
       "Ellen asked me why I hadn't turned off the television. Have phải đổi thành had"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-183",
@@ -4587,7 +6398,13 @@
       "It's too cold that we couldn't go for a picnic. Thay too ko đi với that thay too bằng so thì đúng"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-184",
@@ -4602,7 +6419,13 @@
       "If we leave now, we'll miss the start of the film now."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-185",
@@ -4617,7 +6440,13 @@
       "If I had bought more milk, I'd have enough for breakfast."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-186",
@@ -4632,7 +6461,13 @@
       "If the Romans had sailed across the Atlantic, they would have reach America."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-187",
@@ -4647,7 +6482,13 @@
       "Robots are being used more and more in space explorations."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-188",
@@ -4661,8 +6502,14 @@
       "Lobster is more delicious than any other seafood dish.",
       "Dan has never tasted any more delicious seafood than lobster."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-189",
@@ -4677,7 +6524,13 @@
       "Our new TV had been delivered to our house."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-190",
@@ -4691,8 +6544,14 @@
       "Dan thinks History is not as interesting as Science.",
       "Dan thinks History is as boring as Science."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-191",
@@ -4707,7 +6566,13 @@
       "Bill asked Mary if she had done anything the previous weekend."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-192",
@@ -4721,8 +6586,14 @@
       "My parents asked me what time I had got home the night before.",
       "My parents asked me what time I had got home last night."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-193",
@@ -4737,7 +6608,13 @@
       "I was too surprising that I didn't know what to say."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-194",
@@ -4752,7 +6629,13 @@
       "She told me not to interrupt me while I was speaking."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-195",
@@ -4767,7 +6650,13 @@
       "If I had turned left at the station, I wouldn't have lost my way."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-196",
@@ -4782,7 +6671,13 @@
       "If you won't get up now, you will be late for school."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-197",
@@ -4797,7 +6692,14 @@
       "We are having our garden fence mended tomorrow."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Có nhiều đáp án hợp lệ",
+    "explain": "A và D đều có thể diễn đạt cách nhờ/thuê người sửa hàng rào vào ngày mai, dựa trên cuộc hẹn đã sắp xếp.",
+    "accepted": [
+      0,
+      3
+    ]
   },
   {
     "id": "ontap-198",
@@ -4812,7 +6714,13 @@
       "A lot of money is being given to help the earthquake victims."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-199",
@@ -4827,7 +6735,13 @@
       "My new computer is smaller than my old one."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-200",
@@ -4842,7 +6756,13 @@
       "The hotel on the cliff has as good view as other hotels in the town."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-201",
@@ -4857,7 +6777,13 @@
       "Susan told them that she had left her umbrella there 2 days before."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-202",
@@ -4872,7 +6798,13 @@
       "The sales manager asked me why I have applied for that job."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-203",
@@ -4887,7 +6819,13 @@
       "It was such a small that we couldn't live in comfortably."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-204",
@@ -4902,7 +6840,13 @@
       "Sam was not hardworking enough to lose the job. Lose sai nghĩa nếu đổi thành keep sẽ đúng"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-205",
@@ -4916,8 +6860,14 @@
       "I won't buy that watch if I were you.",
       "I wouldn't buy that watch if I were you."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-206",
@@ -4932,7 +6882,13 @@
       "If Mike had make a shopping list, he wouldn't have forgotten to buy some coffee."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-207",
@@ -4946,8 +6902,14 @@
       "Lan asked how many teachers there were in her school.",
       "Lan asked how many teachers were there in my school."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-208",
@@ -4961,8 +6923,14 @@
       "There is not enough time to hold the meeting.",
       "There may be not enough time to hold the meeting."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-209",
@@ -4976,8 +6944,14 @@
       "You wouldn’t have large phone bills this month if you didn’t use your mobile a lot.",
       "Unless you use your mobile a lot, you will have large phone bills this month."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-210",
@@ -4992,7 +6966,13 @@
       "Steve Wood is the funniest disc jockey."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-211",
@@ -5007,7 +6987,13 @@
       "If Jack had seen the doctor, he wasn’t ill for such a long time."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-212",
@@ -5021,8 +7007,14 @@
       "The news programmes are popular but the music programmes are more popular.",
       "The news programmes are the most popular."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-213",
@@ -5037,7 +7029,13 @@
       "His new painting has been finished at the weekend."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-214",
@@ -5051,8 +7049,14 @@
       "Today was such a hot day so that I didn’t want to do anything. So that that thành that thì đúng",
       "Today was a hot day that I didn’t want to do anything."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ đáp án A; chú thích đỏ ở B không phải đáp án",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-215",
@@ -5067,7 +7071,13 @@
       "Mrs. Smith asked where the car-park was. Câu gián tiếp không đảo tobe lên trước danh từ"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-216",
@@ -5081,8 +7091,14 @@
       "They were asked some difficult questions by me at the interview.",
       "I asked them some difficult questions at the interview."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-217",
@@ -5096,8 +7112,14 @@
       "George told Mary that he had had seen that film three times.",
       "George told Mary that he saw that film three times."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-218",
@@ -5111,8 +7133,14 @@
       "Bill and Peter are enough old to ride motor-cycles.",
       "Bill and Peter are old enough to ride motor-cycles. Enough phải được phủ định"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-219",
@@ -5127,7 +7155,13 @@
       "The traffic has be banned from the city centre."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-220",
@@ -5142,7 +7176,13 @@
       "I wouldn’t have been in a lot of trouble now unless I had listened to my parents."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-221",
@@ -5157,7 +7197,13 @@
       "Kate wouldn’t have been sick if she hadn’t eaten a giant pizza."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-222",
@@ -5171,8 +7217,14 @@
       "I have never heard a worse song than this one.",
       "This bad song is not my favourite."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-223",
@@ -5186,8 +7238,14 @@
       "Arthur said they were flying home the following week.",
       "Arthur said they will fly home the following week."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-224",
@@ -5201,8 +7259,14 @@
       "This match is watched by five million football fans.",
       "This match will have watched by five million football fans."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Được đánh dấu bằng chữ màu xanh trong Word",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-225",
@@ -5216,8 +7280,14 @@
       "We were told the results of the test by our teacher.",
       "The results of the test are told to us by our teacher."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-226",
@@ -5231,8 +7301,14 @@
       "This purse was left in the classroom yesterday.",
       "This purse was being left in the classroom yesterday."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-227",
@@ -5247,7 +7323,13 @@
       "She wondered why hadn’t Nancy come?"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-228",
@@ -5262,7 +7344,13 @@
       "She asked me if I had heard of their marriage."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-229",
@@ -5276,8 +7364,14 @@
       "I have a lot of money that I don’t know what to do with it. That ko đi một mình",
       "I have too a lot of money so I don’t know what to do with it. Too + adj"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-230",
@@ -5291,8 +7385,14 @@
       "We would pay them on time if they didn’t make a mistake with our order.",
       "We would pay them on time unless they hadn’t made a mistake with our order."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-231",
@@ -5307,7 +7407,13 @@
       "The accident wouldn’t happen if the driver had paid attention to the road."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-232",
@@ -5321,8 +7427,14 @@
       "I have never visited a more wonderful place than this one.",
       "The place is not wonderful enough to come back."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Được đánh dấu bằng chữ màu xanh trong Word",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-233",
@@ -5336,8 +7448,14 @@
       "The results of the competition will being announced tomorrow.",
       "The results of the competition are announced tomorrow."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Được đánh dấu bằng chữ màu xanh trong Word",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-234",
@@ -5352,7 +7470,13 @@
       "Because Tim felt tired, he stayed up to finish his homework."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-235",
@@ -5366,8 +7490,14 @@
       "Parissa was feeling sick because of not eating ice cream.",
       "Parissa was feeling sick so she didn’t eat ice cream."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-236",
@@ -5381,8 +7511,14 @@
       "Elena has never been to Poland despite speaks Polish well.",
       "Elena speaks Polish well because she’s never been to Poland"
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-237",
@@ -5396,8 +7532,14 @@
       "He apologized of making a mistake.",
       "He apologized for making mistakes."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 1,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-238",
@@ -5412,7 +7554,13 @@
       "Today was a hot day that I didn’t want to do anything."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-239",
@@ -5427,7 +7575,13 @@
       "If the joke hadn’t been very funny, the audience wouldn’t laugh."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-240",
@@ -5441,8 +7595,14 @@
       "We would order a salmon pizza unless we had enough money.",
       "If we had enough money, we would order a salmon pizza."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-241",
@@ -5457,7 +7617,13 @@
       "The teacher told them stop make noise in class."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-242",
@@ -5472,7 +7638,13 @@
       "I couldn’t drive my parents’ car."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-243",
@@ -5487,7 +7659,13 @@
       "They were stolen all money while they were on holiday."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-244",
@@ -5501,8 +7679,12 @@
       "This room is nicer than the other ones in the hotel.",
       "No rooms in the hotel are nice."
     ],
-    "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "“One of the nicest rooms” = một trong các phòng đẹp nhất; C lại khẳng định phòng này đẹp hơn *mọi* phòng khác, suy luận quá mức.",
+    "accepted": []
   },
   {
     "id": "ontap-245",
@@ -5517,7 +7699,13 @@
       "Although Jane kept running but she knew she couldn’t win."
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-246",
@@ -5532,7 +7720,13 @@
       "He is the most interesting man I have ever met."
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-247",
@@ -5546,8 +7740,14 @@
       "Karl said he will call me the following day.",
       "Karl said he would call me the next day."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 3,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-248",
@@ -5562,7 +7762,13 @@
       "Adrian was so tired and so he fell asleep during the film."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-249",
@@ -5577,7 +7783,13 @@
       "Diana wore her winter clothes due to the heat. Due to = because"
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-250",
@@ -5592,7 +7804,13 @@
       "He asked me doing the test again"
     ],
     "correct": 1,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 1,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      1
+    ]
   },
   {
     "id": "ontap-251",
@@ -5607,7 +7825,13 @@
       "The rest of the week will be hotter than tomorrow."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-252",
@@ -5621,8 +7845,14 @@
       "In her class, nobody is as intelligent as she is.",
       "She comes top in all exams so she is very intelligent."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 2,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-253",
@@ -5636,8 +7866,12 @@
       "If you had your air conditioner seviced, you would waste a lot of energy.",
       "If you hadn’t had your air conditioner seviced, you would have wasted a lot of energy."
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "Câu gốc là lời khuyên với hệ quả tương lai; A dùng điều kiện giả định loại 2, B/C đảo ý, D nói giả định quá khứ.",
+    "accepted": []
   },
   {
     "id": "ontap-254",
@@ -5652,7 +7886,13 @@
       "The winner of the race will be congratulated by the president."
     ],
     "correct": 2,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 2,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      2
+    ]
   },
   {
     "id": "ontap-255",
@@ -5667,7 +7907,13 @@
       "The United Nations wouldn’t send in a peacekeeping force if the situation didn’t worsen."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-256",
@@ -5682,7 +7928,13 @@
       "“Why don’t you go swimming with me?”, suggested Sam"
     ],
     "correct": 3,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 3,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      3
+    ]
   },
   {
     "id": "ontap-257",
@@ -5697,7 +7949,13 @@
       "Robots will being powered by solar panels in the future"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-258",
@@ -5712,7 +7970,13 @@
       "Dan finds History is as boring as Science."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-259",
@@ -5727,7 +7991,13 @@
       "We had been taken to the station by Mr Harris."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-260",
@@ -5742,7 +8012,13 @@
       "My old scooter is faster than my new one."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-261",
@@ -5757,7 +8033,11 @@
       "Boys usually spend more money on clothes than girls."
     ],
     "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "A là ý dự định nhưng dùng từ sai chính tả “clothers” thay vì “clothes”. B/C/D đều sai quan hệ so sánh.",
+    "accepted": []
   },
   {
     "id": "ontap-262",
@@ -5772,7 +8052,13 @@
       "Nothing is important except a good education."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-263",
@@ -5787,7 +8073,13 @@
       "I hope I will be choosed for the team by the coach."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-264",
@@ -5802,7 +8094,13 @@
       "Rick was teached to surf by his cousin."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-265",
@@ -5816,8 +8114,12 @@
       "Mineral water is being sold in plastic bottles",
       "Mineral water should be sold in plastic bottles."
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "A giữ lỗi “in plastic bottle” (danh từ đếm được số ít thiếu mạo từ); B sai hòa hợp chủ vị, C thay thì hiện tại đơn bằng tiếp diễn, D đổi sang “should”.",
+    "accepted": []
   },
   {
     "id": "ontap-266",
@@ -5832,7 +8134,13 @@
       "The metro is being built when we were there."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-267",
@@ -5847,7 +8155,13 @@
       "Three terrorists was arrested by the police in New York."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-268",
@@ -5861,8 +8175,12 @@
       "More than 1,000 cars are selling by our company every week.",
       "More than 1,000 cars have been sold every week."
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "A dùng “every year” thay vì “every week”. B/D đổi hiện tại đơn sang hiện tại hoàn thành; C sai dạng bị động.",
+    "accepted": []
   },
   {
     "id": "ontap-269",
@@ -5877,7 +8195,13 @@
       "Nothing is not decided before next Saturday,"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-270",
@@ -5892,7 +8216,13 @@
       "Wage discrimination is sued by the company."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-271",
@@ -5907,7 +8237,13 @@
       "Any kind of violence hasn’t allowed at school."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-272",
@@ -5922,7 +8258,13 @@
       "His hard work on gender equality is provided for him with an award"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-273",
@@ -5937,7 +8279,13 @@
       "The students is given enough time to finish their tests."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-274",
@@ -5952,7 +8300,13 @@
       "His excellent teaching has admired by all of the students."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-275",
@@ -5967,7 +8321,13 @@
       "Hot soapy water were being washed all the cars."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-276",
@@ -5981,8 +8341,14 @@
       "Our hotel was cheap but all the others in the town were cheaper.",
       "All the other hotels in the town were less expensive than ours."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-277",
@@ -5997,7 +8363,13 @@
       "No sea in the world is warm except the Red Sea."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-278",
@@ -6012,7 +8384,13 @@
       "I was the last person who got to the party."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-279",
@@ -6027,7 +8405,13 @@
       "This film isn’t as boring as the other ones that I’ve seen."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-280",
@@ -6042,7 +8426,13 @@
       "Travelling by car is as slowly as travelling by train."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-281",
@@ -6056,8 +8446,14 @@
       "Kris did badly in the exam but Joe did the worst.",
       "Kris didn’t do as well in the exam as Joe."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-282",
@@ -6071,8 +8467,14 @@
       "Mrs. Jones told the children that each of you might have a piece of candy.",
       "Mrs. Jones told the children that each of you may have a piece of candy."
     ],
-    "correct": null,
-    "keySource": "Tài liệu không chỉ rõ đáp án"
+    "correct": 0,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-283",
@@ -6087,7 +8489,13 @@
       "The music is not enough loud for me to hear properly."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-284",
@@ -6101,8 +8509,12 @@
       "I'm not enough tall to reach the top shelf of the cupboard.",
       "I'm too tall to reach the top shelf in the cupboard sai nghĩa"
     ],
-    "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "correct": null,
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đề không có đáp án đúng hoàn toàn",
+    "explain": "A “not too short” trái với ý không thể với tới; B/C sai cấu trúc tính từ, D nhầm nguyên nhân không với tới.",
+    "accepted": []
   },
   {
     "id": "ontap-285",
@@ -6117,7 +8529,13 @@
       "Mary asked us not to leave me on my own. Có not to leave nhưng me ko đổi"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   },
   {
     "id": "ontap-286",
@@ -6132,7 +8550,14 @@
       "Mary asked me if I knew when the Golden Gate Bridge had completed"
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Có nhiều đáp án hợp lệ",
+    "explain": "Có thể lùi thì hoàn thành (A), hoặc giữ quá khứ (B) đối với thời điểm cố định của sự kiện lịch sử.",
+    "accepted": [
+      0,
+      1
+    ]
   },
   {
     "id": "ontap-287",
@@ -6147,6 +8572,12 @@
       "He is very intelligent that he always understands what the teacher says."
     ],
     "correct": 0,
-    "keySource": "Được tô đỏ trong tài liệu"
+    "keySource": "Tô đỏ trong Word (kể cả tô đỏ một phần)",
+    "sourceCorrect": 0,
+    "auditStatus": "Đúng theo đánh giá ngữ pháp và ý nghĩa",
+    "explain": "",
+    "accepted": [
+      0
+    ]
   }
 ]
